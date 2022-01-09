@@ -1,0 +1,125 @@
+.navbar{
+    padding: 5px;
+    margin-top: 0px;
+}
+
+.logo{
+    width: 124px;
+    height: 40px;
+    padding-top: 5px;
+}
+
+.meet
+{
+    display: inline-block;
+    font-family: 'Product Sans',Arial,sans-serif;
+    position: relative;
+    top: -16px;
+    vertical-align: middle;
+    font-size: 22px;
+    line-height: 24px;
+    color: #5f6368;
+    opacity: 1;
+    padding-left: 4px;
+}
+.meetlogo{
+    outline: none;
+    display: inline-block;
+    vertical-align: middle;
+    text-decoration: none;
+}
+
+.navbar{
+    align-items: center;
+    position: fixed;
+}
+
+.dt_dy{
+    font-family: 'Google Sans',Roboto,Arial,sans-serif;
+    font-size: 1.125rem;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 1.5rem;
+    color: #5f6368;
+    margin-right: 12px;
+    position: relative;
+    bottom: 40px;
+    left: 43em;
+}
+
+.icons{
+    line-height: 1.5rem;
+    color: #5f6368;
+    margin-right: 12px;
+    position: relative;
+    bottom: 70px;
+    left: 60em;
+}
+
+i{
+    padding: 10px;
+}
+
+.la_div{
+    line-height: 1.5rem;
+    color: #5f6368;
+    margin-right: 12px;
+    position: relative;
+    bottom: 107px;
+    left: 73em;
+}
+
+.content_left{
+    height: 500px;
+    width: 500px;
+    margin-left: 40px;
+    position: relative;
+    top: 8em;
+}
+
+.cont_head{
+    font-family: 'Google Sans Display',Roboto,Arial,sans-serif;
+    font-size: 2.75rem;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 3.25rem;
+    padding-bottom: 0.5em;
+}
+
+.main_cont{
+    font-family: 'Google Sans',Roboto,Arial,sans-serif;
+    font-size: 1.125rem;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 1.5rem;
+    color: #5f6368;
+    color: var(--gm-color-caption,#5f6368);
+    max-width: 30rem;
+    padding-bottom: 3em;
+}
+
+.button{
+   height: 47px;
+   width: 150px;
+   margin-right: 20px;
+   background-color: #3672ff ;
+   border-radius: 5px;
+   border: solid white;
+}
+.intext{
+    height: 40px;
+    width: 250px;
+    border-radius: 5px;
+    border: solid black;
+}
+
+.learn_more{
+    letter-spacing: .00625em;
+    font-family: Roboto,Arial,sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5rem;
+    padding-top: 1.5em;
+    color: #5f6368;
+    color: var(--gm-color-caption,#5f6368);
+}
